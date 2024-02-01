@@ -1,0 +1,20 @@
+[
+  {
+    "title": "How to use the new Google Maps: Directions",
+    "date": "2013-07-10",
+    "tags": ["google", "maps", "directions", "tutorial"],
+    "isNew": true
+  },
+  {
+    "title": "How to use the new Google Maps: Search",
+    "date": "2013-07-10",
+    "tags": ["google", "maps", "search", "tutorial"],
+    "isNew": false
+  },
+  {
+    "title": "How to use the new Google Maps: Explore",
+    "date": "2013-07-10",
+    "tags": ["google", "maps", "explore", "tutorial"],
+    "isNew": false
+  }
+]
